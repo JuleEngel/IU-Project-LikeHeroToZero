@@ -1,12 +1,12 @@
 # Like Hero To Zero
 
-A web front end for worldwide CO₂ emissions. Everyone can view the data. Registered users can log in to change and extend it. The prototype shows the emissions of the years 2018 to 2021, based on the public EDGAR dataset of the European Commission.
-
 Case study from my Bachelor of Science in Computer Science at IU International University of Applied Sciences, module *Programming of Industrial Information Systems with Java EE (IPWA02-01)*, December 2023. The project is a prototype and not meant for public use.
 
 <p align="center">
   <img src="images/EmissionOverview.png" width="600" alt="Like Hero To Zero: emission overview">
 </p>
+
+A web front end for worldwide CO₂ emissions. Everyone can view the data. Registered users can log in to change and extend it. The prototype shows the emissions of the years 2018 to 2021, based on the public EDGAR dataset of the European Commission.
 
 ## Features
 
